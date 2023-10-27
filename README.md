@@ -1,0 +1,3 @@
+# Rat-Maze
+# This maze takes in a file which sends in 2 ints that represent the number of rows then columns. Then there is a an int field which is turned into a bit field...
+# 
